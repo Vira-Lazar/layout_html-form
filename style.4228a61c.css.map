@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,YACE,gBACF,CAMA,yBACE,qBACF,CAEA,OACE,0BACF","file":"style.4228a61c.css","sourceRoot":"..\\src","sourcesContent":[".form-field {\n  margin: 10px 20px;\n}\n\n.form_regis {\n  margin: 10px 20px 20px;\n}\n\n.registracia {\n  margin: 10px 20px 20px;\n}\n\nbutton {\n  margin: 10px 20px 20px 40px;\n}\n"]}
